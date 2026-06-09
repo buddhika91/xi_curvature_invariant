@@ -52,7 +52,7 @@ K(\gamma) \ge K(0).
 ## Installation
 
 ```bash
-git clone xi_curvature_invariant
+git clone https://github.com/buddhika91/xi_curvature_invariant.git
 cd xi-curvature-invariant
 python -m venv .venv
 .venv\Scripts\activate   # Windows
