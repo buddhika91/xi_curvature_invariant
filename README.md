@@ -53,11 +53,6 @@ K(\gamma) \ge K(0).
 
 ```bash
 git clone https://github.com/buddhika91/xi_curvature_invariant.git
-cd xi-curvature-invariant
-python -m venv .venv
-.venv\Scripts\activate   # Windows
-# source .venv/bin/activate  # macOS/Linux
-pip install -e .[test]
 ```
 
 ## Quick start
